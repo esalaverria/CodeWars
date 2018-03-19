@@ -67,3 +67,4 @@ fabric.properties
 # Sonarlint plugin
 .idea/sonarlint
 .idea/workspace.xml
+.idea/
